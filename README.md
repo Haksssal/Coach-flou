@@ -1,0 +1,1 @@
+Le schéma du systeme flou peut etre consutlé sur ce lien : https://lucid.app/lucidchart/1c215aee-c6ef-45b3-9bb8-8ea0400770df/edit?viewport_loc=-2231%2C-717%2C4565%2C2171%2C0_0&invitationId=inv_dd098da0-258c-44cc-97d0-0b3497a4bb57
